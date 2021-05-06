@@ -13,7 +13,7 @@ dependencies:
   url_launcher: ^6.0.3
   string_validator: ^0.1.4
   cached_network_image: ^2.2.0+1
-  flutter_cache_store: ^0.7.2
+  flutter_cache_store: ^0.8.0
 
 dev_dependencies:
   flutter_test:
