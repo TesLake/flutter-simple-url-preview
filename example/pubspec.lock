@@ -135,12 +135,10 @@ packages:
   flutter_cache_store:
     dependency: transitive
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "745c7b9d063732623d3607345367a0e39328fb60"
-      url: "https://github.com/TesLake/flutter_cache_store.git"
-    source: git
-    version: "0.7.2"
+      name: flutter_cache_store
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.8.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter

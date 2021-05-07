@@ -15,8 +15,6 @@ dependencies:
   string_validator: ^0.1.4
   cached_network_image: ^2.2.0+1
   flutter_cache_store:
-    git:
-      url: https://github.com/TesLake/flutter_cache_store.git
 
 dev_dependencies:
   flutter_test:
